@@ -1331,8 +1331,7 @@ st.markdown(
     """
     <div class="footer">
         <a href="https://github.com/fish2018/ClashForge">ClashForge</a> | 
-        <a href="https://t.me/s/tgsearchers">TG频道资源宇宙</a> | 
-        <a href="https://proxy.252035.xyz/">订阅转换</a>  
+        <a href="https://conversions.bestdraven.me">订阅转换</a>  
     </div>
     """,
     unsafe_allow_html=True
